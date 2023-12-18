@@ -1,1 +1,1 @@
-Code for generating figures in https://doi.org/10.1063/5.0033405 . All scripts take at most ~10 minutes to run on my machine.
+Code for generating figures in https://doi.org/10.1063/5.0033405 . All scripts take at most ~10 minutes to run on my machine. I run python interactively, if you do the same you should see the figures. Lines to save the figures may be commented out.
